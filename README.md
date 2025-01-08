@@ -121,4 +121,4 @@ npm start
 
 ## Acknowledgments
 
-- [Jonas schmedtmann](https://github.com/jonasschmedtmann)
+- [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
